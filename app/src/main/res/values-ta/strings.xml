@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">நம்ம-ரஸ்தே ரிப்போர்ட்டர்</string>
+    <string name="report_new_issue">புதிய புகாரைப் பதிவு செய்க</string>
+    <string name="my_reports">எனது புகார்கள்</string>
+    <string name="track_ticket">டிக்கெட்டைத் தொடரவும்</string>
+    <string name="logout">வெளியேறு</string>
+    <string name="welcome">வரவேற்பு</string>
+    <string name="submit_report">புகாரைச் சமர்ப்பிக்கவும்</string>
+    <string name="issue_type">பிரச்சினை வகை</string>
+    <string name="severity">தீவிரம்</string>
+    <string name="description">விளக்கம் (விருப்பமானது)</string>
+    <string name="fetching_location">ஜிபிஎஸ் இருப்பிடத்தைப் பெறுகிறது...</string>
+    <string name="location_captured">இருப்பிடம் பிடிக்கப்பட்டது</string>
+</resources>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">नम्मा-रास्ते रिपोर्टर</string>
+    <string name="report_new_issue">नई समस्या की रिपोर्ट करें</string>
+    <string name="my_reports">मेरी रिपोर्ट</string>
+    <string name="track_ticket">टिकट ट्रैक करें</string>
+    <string name="logout">लॉग आउट</string>
+    <string name="welcome">स्वागत है</string>
+    <string name="submit_report">रिपोर्ट जमा करें</string>
+    <string name="issue_type">समस्या का प्रकार</string>
+    <string name="severity">तीव्रता</string>
+    <string name="description">विवरण (वैकल्पिक)</string>
+    <string name="fetching_location">जीपीएस स्थान प्राप्त किया जा रहा है...</string>
+    <string name="location_captured">स्थान कैप्चर किया गया</string>
+</resources>

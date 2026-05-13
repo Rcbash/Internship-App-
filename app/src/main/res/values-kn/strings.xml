@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ನಮ್ಮ-ರಸ್ತೆ ರಿಪೋರ್ಟರ್</string>
+    <string name="report_new_issue">ಹೊಸ ಸಮಸ್ಯೆಯನ್ನು ವರದಿ ಮಾಡಿ</string>
+    <string name="my_reports">ನನ್ನ ವರದಿಗಳು</string>
+    <string name="track_ticket">ಟಿಕೆಟ್ ಟ್ರ್ಯಾಕ್ ಮಾಡಿ</string>
+    <string name="logout">ಲಾಗ್ ಔಟ್</string>
+    <string name="welcome">ಸ್ವಾಗತ</string>
+    <string name="submit_report">ವರದಿಯನ್ನು ಸಲ್ಲಿಸಿ</string>
+    <string name="issue_type">ಸಮಸ್ಯೆಯ ಪ್ರಕಾರ</string>
+    <string name="severity">ತೀವ್ರತೆ</string>
+    <string name="description">ವಿವರಣೆ (ಐಚ್ಛಿಕ)</string>
+    <string name="fetching_location">ಜಿಪಿಎಸ್ ಸ್ಥಳವನ್ನು ಪಡೆಯಲಾಗುತ್ತಿದೆ...</string>
+    <string name="location_captured">ಸ್ಥಳವನ್ನು ಸೆರೆಹಿಡಿಯಲಾಗಿದೆ</string>
+</resources>

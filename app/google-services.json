@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "832313875412",
+    "project_id": "nammarastereporter",
+    "storage_bucket": "nammarastereporter.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:832313875412:android:b691c1ce74c1de8298d441",
+        "android_client_info": {
+          "package_name": "com.example.nammaraste"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFOPfbHlWJ3kHmcAUzNU4DjavkKjEJoXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

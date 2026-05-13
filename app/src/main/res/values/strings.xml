@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Namma-Raste Reporter</string>
+    <string name="report_new_issue">Report New Issue</string>
+    <string name="my_reports">My Reports</string>
+    <string name="track_ticket">Track Ticket</string>
+    <string name="logout">Logout</string>
+    <string name="welcome">Welcome</string>
+    <string name="submit_report">Submit Report</string>
+    <string name="issue_type">Issue Type</string>
+    <string name="severity">Severity</string>
+    <string name="description">Description (Optional)</string>
+    <string name="fetching_location">Fetching GPS location...</string>
+    <string name="location_captured">Location Captured</string>
+    <string name="back">Back</string>
+    <string name="done">Done</string>
+    <string name="report_submitted">Report Submitted!</string>
+    <string name="ticket_id_label">Ticket ID:</string>
+    <string name="search">Search</string>
+    <string name="no_reports_yet">No Reports Yet</string>
+    <string name="what_would_you_like_to_do">What would you like to do?</string>
+    
+    <!-- Login/Signup -->
+    <string name="login_title">Welcome Back</string>
+    <string name="login_subtitle">Sign in to Namma-Raste Reporter</string>
+    <string name="email_label">Email Address</string>
+    <string name="password_label">Password</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="no_account">Don\'t have an account?</string>
+    <string name="forgot_password">Forgot Password?</string>
+    
+    <!-- Camera -->
+    <string name="camera_permission_required">Camera Permission Required</string>
+    <string name="camera_permission_desc">This app needs camera access to capture road defect photos.</string>
+    <string name="grant_permission">Grant Permission</string>
+    
+    <!-- Tracking -->
+    <string name="enter_ticket_id">Enter your Ticket ID</string>
+    <string name="ticket_not_found">Ticket Not Found</string>
+    <string name="progress_timeline">Progress Timeline</string>
+</resources>

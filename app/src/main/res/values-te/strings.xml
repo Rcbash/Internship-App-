@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">నమ్మ-రస్తే రిపోర్టర్</string>
+    <string name="report_new_issue">కొత్త సమస్యను నివేదించండి</string>
+    <string name="my_reports">నా నివేదికలు</string>
+    <string name="track_ticket">టికెట్‌ను ట్రాక్ చేయండి</string>
+    <string name="logout">లాగ్ అవుట్</string>
+    <string name="welcome">స్వాగతం</string>
+    <string name="submit_report">నివేదికను సమర్పించండి</string>
+    <string name="issue_type">సమస్య రకం</string>
+    <string name="severity">తీవ్రత</string>
+    <string name="description">వివరణ (ఐచ్ఛికం)</string>
+    <string name="fetching_location">GPS స్థానాన్ని పొందుతోంది...</string>
+    <string name="location_captured">స్థానం సంగ్రహించబడింది</string>
+</resources>
